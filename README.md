@@ -23,6 +23,9 @@ This repository contains the laboratory activities, Python implementations, data
 ├── Activity-2-LogisticRegression/
 │   ├── 6_Logistic_Regression_Dataset_Exercise_2.csv
 │   └── Activity-2-Logistic Regression.ipynb
+├── Activity-3-DecisionTreeClassifier/
+│   ├── 7_Decision_Tree_Classifier_Dataset_Exercise_1.csv
+│   └── Activity-3-Decision_Tree_Classifier.ipynb
 ├── .gitignore
 └── README.md
 ```
@@ -44,4 +47,12 @@ This repository contains the laboratory activities, Python implementations, data
 - **Notebook:** [`Activity-2-Logistic Regression.ipynb`](./Activity-2-LogisticRegression/Activity-2-Logistic%20Regression.ipynb)
 - **Dataset:** [`6_Logistic_Regression_Dataset_Exercise_2.csv`](./Activity-2-LogisticRegression/6_Logistic_Regression_Dataset_Exercise_2.csv)
 - **Description:** Implementation of Binary Classification using Logistic Regression in `scikit-learn`. Includes dataset preprocessing, model training, confusion matrix visualization with `seaborn`, and evaluation using Accuracy, Precision, Recall, and Classification Report.
+
+---
+
+### 3. Activity 3 – Decision Tree Classifier
+- **Directory:** [`Activity-3-DecisionTreeClassifier`](./Activity-3-DecisionTreeClassifier/)
+- **Notebook:** [`Activity-3-Decision_Tree_Classifier.ipynb`](./Activity-3-DecisionTreeClassifier/Activity-3-Decision_Tree_Classifier.ipynb)
+- **Dataset:** [`7_Decision_Tree_Classifier_Dataset_Exercise_1.csv`](./Activity-3-DecisionTreeClassifier/7_Decision_Tree_Classifier_Dataset_Exercise_1.csv)
+- **Description:** Implementation of Classification using Decision Tree in `scikit-learn`. Includes dataset preprocessing, model training, visualization of the decision tree using `plot_tree`, and model evaluation.
 
