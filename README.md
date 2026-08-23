@@ -26,6 +26,9 @@ This repository contains the laboratory activities, Python implementations, data
 ├── Activity-3-DecisionTreeClassifier/
 │   ├── 7_Decision_Tree_Classifier_Dataset_Exercise_1.csv
 │   └── Activity-3-Decision_Tree_Classifier.ipynb
+├── Activity-4-SupportVectorMachines/
+│   ├── 8_Support_Vector_Machine_Dataset_Exercise_2.csv
+│   └── Activity-4-Support_Vector_Machines.ipynb
 ├── .gitignore
 └── README.md
 ```
@@ -56,3 +59,10 @@ This repository contains the laboratory activities, Python implementations, data
 - **Dataset:** [`7_Decision_Tree_Classifier_Dataset_Exercise_1.csv`](./Activity-3-DecisionTreeClassifier/7_Decision_Tree_Classifier_Dataset_Exercise_1.csv)
 - **Description:** Implementation of Classification using Decision Tree in `scikit-learn`. Includes dataset preprocessing, model training, visualization of the decision tree using `plot_tree`, and model evaluation.
 
+---
+
+### 4. Activity 4 – Support Vector Machines
+- **Directory:** [`Activity-4-SupportVectorMachines`](./Activity-4-SupportVectorMachines/)
+- **Notebook:** [`Activity-4-Support_Vector_Machines.ipynb`](./Activity-4-SupportVectorMachines/Activity-4-Support_Vector_Machines.ipynb)
+- **Dataset:** [`8_Support_Vector_Machine_Dataset_Exercise_2.csv`](./Activity-4-SupportVectorMachines/8_Support_Vector_Machine_Dataset_Exercise_2.csv)
+- **Description:** Implementation of Classification using Support Vector Machines in `scikit-learn`. Includes dataset loading, data preprocessing, model training, and evaluation using metrics such as Accuracy, Precision, Recall, and F1-Score.
