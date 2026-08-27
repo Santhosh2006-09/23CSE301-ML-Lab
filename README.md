@@ -29,6 +29,9 @@ This repository contains the laboratory activities, Python implementations, data
 ├── Activity-4-SupportVectorMachines/
 │   ├── 8_Support_Vector_Machine_Dataset_Exercise_2.csv
 │   └── Activity-4-Support_Vector_Machines.ipynb
+├── Activity-5-KNearestNeighbours/
+│   ├── 9_K_Nearest_Neighbour_Dataset_Exercise_2.csv
+│   └── Activity-5-K_Nearest_Neighbour.ipynb
 ├── .gitignore
 └── README.md
 ```
@@ -66,3 +69,11 @@ This repository contains the laboratory activities, Python implementations, data
 - **Notebook:** [`Activity-4-Support_Vector_Machines.ipynb`](./Activity-4-SupportVectorMachines/Activity-4-Support_Vector_Machines.ipynb)
 - **Dataset:** [`8_Support_Vector_Machine_Dataset_Exercise_2.csv`](./Activity-4-SupportVectorMachines/8_Support_Vector_Machine_Dataset_Exercise_2.csv)
 - **Description:** Implementation of Classification using Support Vector Machines in `scikit-learn`. Includes dataset loading, data preprocessing, model training, and evaluation using metrics such as Accuracy, Precision, Recall, and F1-Score.
+
+---
+
+### 5. Activity 5 – K-Nearest Neighbours
+- **Directory:** [`Activity-5-KNearestNeighbours`](./Activity-5-KNearestNeighbours/)
+- **Notebook:** [`Activity-5-K_Nearest_Neighbour.ipynb`](./Activity-5-KNearestNeighbours/Activity-5-K_Nearest_Neighbour.ipynb)
+- **Dataset:** [`9_K_Nearest_Neighbour_Dataset_Exercise_2.csv`](./Activity-5-KNearestNeighbours/9_K_Nearest_Neighbour_Dataset_Exercise_2.csv)
+- **Description:** Implementation of Classification using K-Nearest Neighbours in `scikit-learn`. Includes dataset loading, data preprocessing, model training, choosing the optimal K value, and evaluation using various classification metrics.
