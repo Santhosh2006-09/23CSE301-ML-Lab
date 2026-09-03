@@ -32,6 +32,9 @@ This repository contains the laboratory activities, Python implementations, data
 ├── Activity-5-KNearestNeighbours/
 │   ├── 9_K_Nearest_Neighbour_Dataset_Exercise_2.csv
 │   └── Activity-5-K_Nearest_Neighbour.ipynb
+├── Activity-6-KMeansClustering/
+│   ├── 10_K_Means_Clustering_Dataset_Exercise_1.csv
+│   └── Activity-6-K_Means_Clustering.ipynb
 ├── .gitignore
 └── README.md
 ```
@@ -77,3 +80,11 @@ This repository contains the laboratory activities, Python implementations, data
 - **Notebook:** [`Activity-5-K_Nearest_Neighbour.ipynb`](./Activity-5-KNearestNeighbours/Activity-5-K_Nearest_Neighbour.ipynb)
 - **Dataset:** [`9_K_Nearest_Neighbour_Dataset_Exercise_2.csv`](./Activity-5-KNearestNeighbours/9_K_Nearest_Neighbour_Dataset_Exercise_2.csv)
 - **Description:** Implementation of Classification using K-Nearest Neighbours in `scikit-learn`. Includes dataset loading, data preprocessing, model training, choosing the optimal K value, and evaluation using various classification metrics.
+
+---
+
+### 6. Activity 6 – K-Means Clustering
+- **Directory:** [`Activity-6-KMeansClustering`](./Activity-6-KMeansClustering/)
+- **Notebook:** [`Activity-6-K_Means_Clustering.ipynb`](./Activity-6-KMeansClustering/Activity-6-K_Means_Clustering.ipynb)
+- **Dataset:** [`10_K_Means_Clustering_Dataset_Exercise_1.csv`](./Activity-6-KMeansClustering/10_K_Means_Clustering_Dataset_Exercise_1.csv)
+- **Description:** Implementation of K-Means Clustering using `scikit-learn`. Includes dataset loading, data preprocessing, model training, determining optimal clusters, and visualization of clusters.
