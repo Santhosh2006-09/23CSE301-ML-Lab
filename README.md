@@ -35,6 +35,9 @@ This repository contains the laboratory activities, Python implementations, data
 ├── Activity-6-KMeansClustering/
 │   ├── 10_K_Means_Clustering_Dataset_Exercise_1.csv
 │   └── Activity-6-K_Means_Clustering.ipynb
+├── Activity-7-PrincipalComponentAnalysis/
+│   ├── 11_Principal_Component_Analysis_Dataset_Exercise_1.csv
+│   └── Activity-7-PrincipalComponentAnalysis.ipynb
 ├── .gitignore
 └── README.md
 ```
@@ -88,3 +91,11 @@ This repository contains the laboratory activities, Python implementations, data
 - **Notebook:** [`Activity-6-K_Means_Clustering.ipynb`](./Activity-6-KMeansClustering/Activity-6-K_Means_Clustering.ipynb)
 - **Dataset:** [`10_K_Means_Clustering_Dataset_Exercise_1.csv`](./Activity-6-KMeansClustering/10_K_Means_Clustering_Dataset_Exercise_1.csv)
 - **Description:** Implementation of K-Means Clustering using `scikit-learn`. Includes dataset loading, data preprocessing, model training, determining optimal clusters, and visualization of clusters.
+
+---
+
+### 7. Activity 7 – Principal Component Analysis
+- **Directory:** [`Activity-7-PrincipalComponentAnalysis`](./Activity-7-PrincipalComponentAnalysis/)
+- **Notebook:** [`Activity-7-PrincipalComponentAnalysis.ipynb`](./Activity-7-PrincipalComponentAnalysis/Activity-7-PrincipalComponentAnalysis.ipynb)
+- **Dataset:** [`11_Principal_Component_Analysis_Dataset_Exercise_1.csv`](./Activity-7-PrincipalComponentAnalysis/11_Principal_Component_Analysis_Dataset_Exercise_1.csv)
+- **Description:** Implementation of Principal Component Analysis (PCA) using `scikit-learn`. Includes dataset loading, data preprocessing, applying PCA for dimensionality reduction, and visualization of variance and reduced components.
